@@ -1,0 +1,8 @@
+@echo off
+
+set a = bruno 
+set b = bruno 
+
+if %a% equ %b% echo bem vindo
+
+pause >nul
